@@ -22,5 +22,7 @@ function checkFibonacci(number) {
     }
 }
 
+// Inserir o número para teste 
+
 let numero = 13;
 checkFibonacci(numero);
